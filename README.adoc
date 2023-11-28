@@ -1,0 +1,3 @@
+= slow-netbeans-example
+
+Project to help solve the issue https://github.com/apache/netbeans/issues/6759
